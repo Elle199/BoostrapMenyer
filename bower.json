@@ -1,0 +1,21 @@
+{
+  "name": "BoostrapMenyer",
+  "authors": [
+    "elliot.angman@gmail.com <fabian_max@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0",
+    "bootstrap": "4"
+  }
+}
