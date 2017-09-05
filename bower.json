@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap",
+  "name": "bootstrapMenyer",
   "version": "0.0.0",
   "authors": [
-    "T4vxo <daniel.lundberg@utb.vxo.se>"
+    "Elle199 <elliot.angman@gmail.com>"
   ],
   "license": "MIT",
   "ignore": [
@@ -13,6 +13,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.5"
+
   }
 }
